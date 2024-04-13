@@ -12,5 +12,5 @@
 
 # Colaborador
 
-[<img loading="lazy" src="https://avatars.githubusercontent.com/u/165590565?v=4" width=100><br><sub>Jeivan Lucas Araújo</sub>](https://github.com/jeivan-lucas)
+[<img loading="lazy" src="https://avatars.githubusercontent.com/u/165590565?v=4" width=110><br><sub>Jeivan Lucas Araújo</sub>](https://github.com/jeivan-lucas)
 
